@@ -1,1 +1,3 @@
 file2
+add another new line to file2
+and add third line
