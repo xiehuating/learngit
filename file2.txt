@@ -4,3 +4,4 @@ add another new line to file2
 and add third line
 other feature code
 
+feature x code
